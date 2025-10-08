@@ -9,8 +9,7 @@ import numpy as np
 
 
 # Configuration - UPDATE THIS IP ADDRESS
-# AZURE_SERVER_URL = "http://4.147.153.81:80/can"  # vserver under Sandhy's Azure
-AZURE_SERVER_URL = "http://20.211.145.100:80/can"  # vserver under Kangjing's Azure'
+AZURE_SERVER_URL = "http://20.211.145.100:80/can"  # vserver under ICC's Azure account. It needs to be changed
 DEVICE_ID = "IR1835"
 SEND_INTERVAL = 1  # Send data every SEND_INTERVAL seconds
 REQUEST_TIMEOUT = 10

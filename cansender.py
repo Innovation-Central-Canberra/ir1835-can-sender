@@ -6,7 +6,7 @@ import sys
 import time
 from datetime import datetime
 import numpy as np
-from matplotlib.pyplot import inferno
+
 
 # Configuration - UPDATE THIS IP ADDRESS
 # AZURE_SERVER_URL = "http://4.147.153.81:80/can"  # vserver under Sandhy's Azure
